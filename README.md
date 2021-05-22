@@ -18,7 +18,7 @@ euxn23(1992/11/23 -), Software Engineer @japan-d2
 - I also help frontend engineering in Web Service Company and Live Streaming Platform.
 - I had worked in Cryptocurrency Exchange. (as Application Engineer, Developer Success)
 - I had worked in Web Service Company.
-- I had worked in Public Cloud Vendor. (as PaaS Engineer, IoT Engineer)
+- I had worked in Public Cloud Vendor. (as PaaS Engineer, Application Engineer)
 
 ## Otaku
 
