@@ -8,7 +8,7 @@ euxn23(1992/11/23 -), Software Engineer @japan-d2
 
 - Especially in Web Frontend, Node.js, TypeScript.
 - I work using AWS, GCP or other SaaS/PaaS.
-- I had worked using ruby, python, go in the past.
+- I had worked using ruby, python and go in the past.
 - I like Linux, especially Arch Linux.
 - I also like WSL (Windows Subsystem Linux).
 
