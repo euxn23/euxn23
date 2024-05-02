@@ -6,7 +6,7 @@ euxn23(1992/11/23 -), Software Engineer
 
 ## Software Engineer
 
-- Especially in Web Frontend, Node.js, TypeScript.
+- Especially in Web Frontend, Node.js and TypeScript.
 - I like Linux, especially Arch Linux.
 - I usually use AWS, Cloudflare, Pipedream and etc...
 - I had worked using ruby, python and go in the past.
