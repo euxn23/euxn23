@@ -7,9 +7,10 @@ euxn23(1992/11/23 -), Software Engineer living in Japan.
 ## Software Engineer
 
 - Especially in Web Frontend, Node.js and TypeScript.
-- I like Linux, especially Arch Linux.
-- I usually use AWS, Cloudflare, Pipedream and etc...
-- I had worked using ruby, python and go in the past.
+- Now I use TypeScript and Go in web backend.
+- I use Arch Linux in WSL and Home Server.
+- I usually use AWS, Cloudflare, Firebase and etc...
+- I had worked using ruby, python and php in the past.
 
 ## Career
 
@@ -25,4 +26,5 @@ euxn23(1992/11/23 -), Software Engineer living in Japan.
 
 - :heavy_heart_exclamation: Sana Natori, Virtual YouTuber :eggplant:
 - Anime and video game culture
+- Boradgame, Cardgame. Magic: The Gathering, Duel Masters.
 - Digital Gadgets, like Home-built PC, Home Server, Mobile PC and Split Keyboard
