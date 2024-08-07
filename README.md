@@ -14,13 +14,17 @@ euxn23(1992/11/23 -), Software Engineer living in Japan.
 
 ## Career
 
-- Now I am at Online Education Company. (Web Application Dev)
-- I had worked in Fintech Company. (Web Application Dev, DWH Dev, PoC, etc...)
-- I had worked as EM in seed start-up.
-- I had worked as frontend specialist in some Web Service companies.
-- I had worked in Cryptocurrency Exchange. (Web Application Dev, Developer Success)
-- I had worked in Web Service company. (Web Application Dev)
-- I had worked in Public Cloud Vendor. (PaaS Dev, Web Application Engineer)
+- 2023.10- ... Dwango / Online Education (Web Application Dev)
+- -2023.09 ... Freelance (Web Application Dev)
+- -2022.04 ... Japan Digital Design / Digital Fintech Company (Web Application Dev, DWH Dev, PoC, etc...)
+- -2019.09 ... Bitbank / Cryptocurrency Exchange (Web Application Dev, Platform Engineering, Developer Success)
+- 2015.04-2017.12 ... FUJITSU　（Formerly Nifty) / Public Cloud Vendor. (PaaS Dev, Web Application Dev)
+
+### Formerly Side Works
+
+- Frontend Specialist (especially build, DevOps)
+- ReactNative Dev
+- EM (in seed start-up)
 
 ## Otaku
 
