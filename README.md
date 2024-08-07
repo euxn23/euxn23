@@ -18,7 +18,7 @@ euxn23(1992/11/23 -), Software Engineer living in Japan.
 - -2023.09 ... Freelance (Web Application Dev)
 - -2022.04 ... Japan Digital Design / Digital Fintech Company (Web Application Dev, DWH Dev, PoC, etc...)
 - -2019.09 ... bitbank / Cryptocurrency Exchange (Web Application Dev, Platform Engineering, Developer Success)
-- 2015.04-2017.12 ... FUJITSU (Formerly NIFTY) / Public Cloud Vendor. (PaaS Dev, Web Application Dev)
+- 2015.04-2017.12 ... FUJITSU (Formerly NIFTY) / Public Cloud Vendor (PaaS Dev, Web Application Dev)
 
 ### Formerly Side Works
 
@@ -30,5 +30,5 @@ euxn23(1992/11/23 -), Software Engineer living in Japan.
 
 - :heavy_heart_exclamation: Sana Natori, Virtual YouTuber :eggplant:
 - Anime and video game culture
-- Boradgame, Cardgame. Magic: The Gathering, Duel Masters.
+- Boardgame, Cardgame. Magic: The Gathering, Duel Masters.
 - Digital Gadgets, like Home-built PC, Home Server, Mobile PC and Split Keyboard
