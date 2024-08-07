@@ -14,11 +14,11 @@ euxn23(1992/11/23 -), Software Engineer living in Japan.
 
 ## Career
 
-- 2023.10- ... Dwango / Online Education (Web Application Dev)
+- -Now ... Dwango / Online Education (Web Application Dev)
 - -2023.09 ... Freelance (Web Application Dev)
 - -2022.04 ... Japan Digital Design / Digital Fintech Company (Web Application Dev, DWH Dev, PoC, etc...)
-- -2019.09 ... Bitbank / Cryptocurrency Exchange (Web Application Dev, Platform Engineering, Developer Success)
-- 2015.04-2017.12 ... FUJITSU (Formerly Nifty) / Public Cloud Vendor. (PaaS Dev, Web Application Dev)
+- -2019.09 ... bitbank / Cryptocurrency Exchange (Web Application Dev, Platform Engineering, Developer Success)
+- 2015.04-2017.12 ... FUJITSU (Formerly NIFTY) / Public Cloud Vendor. (PaaS Dev, Web Application Dev)
 
 ### Formerly Side Works
 
